@@ -1,0 +1,12 @@
+{
+  "name": "chat-room-express-socketio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alvar91/chat-room-express-socketio.git",
+  "author": "Aleksey <aleksey91scorp@bk.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
